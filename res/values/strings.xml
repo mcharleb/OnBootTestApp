@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OnBootTestApp</string>
+    <string name="ap_service_started">AP Service Started</string>
+</resources>
